@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
-title = "{TITLE}"
+title = "Transluciddata"
 
 enableRobotsTXT = true
 disableAliases = true
